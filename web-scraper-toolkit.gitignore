@@ -1,0 +1,6 @@
+# Scraper output (generated locally, not part of the source code)
+*.csv
+
+# Python
+__pycache__/
+*.pyc
