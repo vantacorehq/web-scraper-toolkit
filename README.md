@@ -11,3 +11,14 @@ Status
 Actively maintained. Custom builds available for client projects.
 Get in touch
 Open for freelance work — DM on Twitter for custom scraping & automation projects.
+## Usage
+
+```bash
+pip install -r requirements.txt
+python scraper.py
+python scraper.py --pages 3 --output hn_data.csv
+```
+
+## Sample output
+
+See [`sample_output.csv`](sample_output.csv) for an example of the collected data.
